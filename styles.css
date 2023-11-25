@@ -73,3 +73,6 @@ button {
   #final-score{
     display: none;
   }
+  .final{
+    display: none;
+  }
